@@ -1,5 +1,5 @@
 {
-  "percolator": {
+  ".percolator": {
     "dynamic": "strict",
     "properties": {
       "query": {
